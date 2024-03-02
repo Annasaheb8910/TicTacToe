@@ -1,6 +1,6 @@
 # TicTacToe
 This is a simple console-based Tic-Tac-Toe game implemented in[programming language].
-Simple tic-tac-toe game built using HTML, CSS, and JavaScript. for more information about the game.
+using HTML, CSS, and JavaScript.
 # Features
 - Two-player gameplay.
 - Simple console-based interface.
